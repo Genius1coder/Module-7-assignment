@@ -1,0 +1,24 @@
+{
+  "name": "module-7-assignment",
+  "version": "1.0.0",
+  "description": "solution to module 7 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genius1coder/Module-7-assignment.git"
+  },
+  "author": "Mary Odedeyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genius1coder/Module-7-assignment/issues"
+  },
+  "homepage": "https://github.com/Genius1coder/Module-7-assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}
