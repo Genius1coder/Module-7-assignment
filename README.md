@@ -108,7 +108,7 @@ script.
 
 QUESTION 6
 
-
+The solution is in package.json file.
 
 
 
